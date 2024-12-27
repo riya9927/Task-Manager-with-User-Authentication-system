@@ -1,5 +1,3 @@
-# Task-Manager-with-User-Authentication-system
-
 # Task Manager with User Authentication
 
 ## Project Description
