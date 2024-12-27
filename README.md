@@ -45,8 +45,3 @@ This **Task Manager** is a Python-based application designed to help users manag
 - `tasks.json`: Stores user-specific tasks.
 - `task_manager.py`: Main application file containing the Task Manager implementation.
 
-## Installation and Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/task-manager-authentication.git
-   cd task-manager-authentication
